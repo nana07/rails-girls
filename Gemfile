@@ -22,6 +22,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 gem 'less-rails' # Railsでlessを使えるようにする。Bootstrapがlessで書かれているため
 gem 'twitter-bootstrap-rails' # Bootstrapの本体
+gem 'devise'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
